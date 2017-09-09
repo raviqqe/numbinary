@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"lib": ["es5", "es6", "es7", "esnext"],
+		"outDir": "build",
+		"target": "es6",
+		"moduleResolution": "node",
+		"downlevelIteration": true,
+		"experimentalDecorators": true
+	}
+}
